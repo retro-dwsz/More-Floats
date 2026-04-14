@@ -1,0 +1,7 @@
+# ninja log v7
+5	305	7978740217906018	CMakeFiles/Half_Float.dir/main.cpp.obj.ddi	f7aa36512be288bf
+305	328	7978740221103034	CMakeFiles/Half_Float.dir/CXX.dd	b60aeb8b4f1a8afd
+305	328	7978740221103034	CMakeFiles/Half_Float.dir/CXXModules.json	b60aeb8b4f1a8afd
+305	328	7978740221103034	CMakeFiles/Half_Float.dir/main.cpp.obj.modmap	b60aeb8b4f1a8afd
+329	1326	7978740221146070	CMakeFiles/Half_Float.dir/main.cpp.obj	d5361d7ce6eb693c
+1330	1458	7978740231158357	Half_Float.exe	ae1f91a411369e12

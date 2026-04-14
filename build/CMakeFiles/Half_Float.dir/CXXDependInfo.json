@@ -1,0 +1,27 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "D:/Code/!Docs/CSE/Half Float/build",
+	"dir-cur-src" : "D:/Code/!Docs/CSE/Half Float",
+	"dir-top-bld" : "D:/Code/!Docs/CSE/Half Float/build",
+	"dir-top-src" : "D:/Code/!Docs/CSE/Half Float",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "D:/Code/!Docs/CSE/Half Float/build/CMakeFiles/Half_Float.dir",
+	"sources" : 
+	{
+		"CMakeFiles/Half_Float.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "D:/Code/!Docs/CSE/Half Float/main.cpp"
+		}
+	}
+}
