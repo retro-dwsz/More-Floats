@@ -7,6 +7,7 @@
 #include <fmt/os.h>
 
 /* Mari kita membuat f8, uf8, f16, dan uf16, yaitu 8-bit & 16-bit floating point, signed & unsigned  */
+/* Let's make f8, uf8, f16, and uf16, which it 8-bit & 16-bit floating point, signed & unsigned  */
 
 int main() {
     return 0;
