@@ -1,9 +1,0 @@
-{
-  "revision": 0,
-  "rules": [
-    {
-      "primary-output": "CMakeFiles\\Half_Float.dir\\main.cpp.obj"
-    }
-  ],
-  "version": 1
-}
